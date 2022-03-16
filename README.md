@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AjayGhimire1998
+- 👋 Hi, I’m Ajay Ghimire.
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning full stack software engineering.
 
