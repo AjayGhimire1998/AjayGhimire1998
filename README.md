@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning full stack software engineering.
 
-- 📫 How to reach me: https://www.facebook.com/azeyghimirey
+- 📫 How to reach me: https://ajayghimire1998.github.io/PersonalWebsite/
 
 <!---
 AjayGhimire1998/AjayGhimire1998 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
