@@ -1,10 +1,11 @@
-- 👋 Hi, I’m Ajay Ghimire.
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning full stack software engineering.
+I have gone from slicing sashimis to slicing arrays.
 
-- 📫 How to reach me: https://ajayghimire1998.github.io/PersonalWebsite/
+I always thought my dream was to be a software developer for an innovative software company, having my own cabin with multi-screen setup, sipping my dark roasted coffee & programming a next big tech. It was a pretty relevant dream, as I was studying bachelor's in software development. But things always do not go as planned. During my bachelor's, I came across a financial hardship & had to work extra jobs to support my tuition. That is when I started working as a kitchen hand in a super busy Japanese restaurant. My hard work, ability to get noticed & become a positive presence in the workplace & ability to learn quickly, identify & solve problems led me to get promoted as a cook in just six months.
 
-<!---
-AjayGhimire1998/AjayGhimire1998 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I was happy that my skills were building, but sad at the same time, as my academic performance was down the ladder. Just like they say 'sometimes everything hits you all at once', Covid-19 came up & caused taking me four years to finally graduate with the undergraduate degree but with low performance that hiked my ambiguity. was not ready for the industry. After the second major lockdown ended, Sydney went back to normalise life & I was back to my kitchen job too. But it didn't felt right to compromise my dream. I realised the only solution is to start learning more, learning something different everyday.
+
+And that's when I came across Academy Xi, a software engineering bootcamp which ignited the spark I was needing, to not give up on my dream & continue in the path to pursue it. I joined the program and coded 60 hours a week with 5 days a week of mentorship for almost 7 months along side working 2 days in the kitchen to support just enough my expenses. Since then, I can't get enough. 
+
+First 4 months, I dived deep into the front-end development using HTML, CSS, JavaScript & React. I was in a streak, for developing 3 different projects (backed up nicely in Git) which the mentor revered. I enjoyed the pace I was learning in. After building a Ruby CLI application, Ruby-on-Rails was a piece of cake with whatever flavour I could imagine eating it with, as it is one of the best versatile and top back-end framework supported by a large community of Ruby gems developers. After my final e-commerce project (also backed up nicely in my git), I achieved a certified Software Engineering Transform badge.
+
+I recently quit my 'cook' job, and been actively applying for a developer role, alongside self-teaching Java. I seek an opportunity to bring my software development calibre to an encouraging and dedicated team.
