@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif"/>
+  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" style="background-color: transparent"/>
   
 <div id="badges">
   <a href="https://www.linkedin.com/in/ajayghimire/" target="_blank">
