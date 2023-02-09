@@ -32,7 +32,7 @@
 ---
 ### :man_technologist: About Me :
   I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Australia.
-  - :telescope: I’m actively looking for a Software Engineer role and contributing to frontend and backend for building web applications.
+  - :telescope: I’m actively looking for a Software Developer role and contributing to frontend and backend for building web applications.
 
 - :seedling: Actively Learning Java.
 
