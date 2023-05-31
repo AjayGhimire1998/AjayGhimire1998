@@ -36,7 +36,7 @@
 
 - :seedling: Actively Learning Java.
 
-- :zap: In my free time, I solve problems on LeetCode and browse technical contents on internet.
+- :zap: In my free time, I solve problems on LeetCode and browse tech contents on internet.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ajay-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ajayghimire/)
 
