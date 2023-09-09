@@ -31,12 +31,13 @@
 
 ---
 ### :man_technologist: About Me :
-  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Australia.
-  - :telescope: I’m actively looking for a Software Developer role and contributing to frontend and backend for building web applications.
+   a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Australia.
+  - :telescope: Motivated and detail-oriented software developer with hands-on experience in developing and deploying interactive applications. Dedicated to continuous learning and professional development. Seeking innovative projects to further enhance technical expertise in software architecture, design, and development. ![image](https://github.com/AjayGhimire1998/AjayGhimire1998/assets/73376772/ce2c3c32-af9e-4bc8-9290-ca05df84e53c)
 
-- :seedling: Actively Learning Java.
 
-- :zap: In my free time, I solve problems on LeetCode and browse tech contents on internet.
+- :seedling: 
+
+- :zap: In my free time, I brush up my Java skills.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ajay-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ajayghimire/)
 
