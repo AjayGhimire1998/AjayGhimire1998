@@ -30,7 +30,7 @@
 
 
 ---
-### :man_technologist: About Me :
+### 👨‍💻: About Me :
    a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Australia.
   - :telescope: Motivated and detail-oriented software developer with hands-on experience in developing and deploying interactive applications. Dedicated to continuous learning and professional development. Seeking innovative projects to further enhance technical expertise in software architecture, design, and development.
 
@@ -42,7 +42,7 @@
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### 🛠️: Languages and Tools :
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -61,7 +61,7 @@
 
 ---
 
-### :fire: My Stats :
+### 🔥: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AjayGhimire1998&theme=dark&background=000000)](https://git.io/streak-stats)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AjayGhimire1998&layout=compact&theme=dark&background=000000&hide=less)](https://github.com/AjayGhimire1998/github-readme-stats)
