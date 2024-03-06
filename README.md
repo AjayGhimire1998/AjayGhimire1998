@@ -65,7 +65,7 @@ and tech expertise to your dynamic team.
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AjayGhimire1998&theme=dark&background=000000)](https://git.io/streak-stats)
 <br>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AjayGhimire19982&layout=donut)](https://github.com/AjayGhimire1998/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AjayGhimire1998&layout=donut)](https://github.com/AjayGhimire1998/github-readme-stats)
 <br>
 <br>
 [![Ajay's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=AjayGhimire1998&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/AjayGhimire1998/github-readme-stats)
