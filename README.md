@@ -31,7 +31,8 @@
 ---
 ### 👨‍💻: About Me :
    a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Australia.
-  - :telescope: Motivated and detail-oriented software developer with hands-on experience in developing and deploying interactive applications. Dedicated to continuous learning and professional development. Seeking innovative projects to further enhance technical expertise in software architecture, design, and development.
+  - :telescope:Former Chef turned Software Engineer with a flair for precision — whether it’s slicing sashimi or arrays. Led 4 successful web development projects at an estimated $100k+ revenue start-up, performed testing and debugging at a Sydney-based web design agency with $2m+ in annual revenue, and completed an intensive software engineering bootcamp with Academy Xi, a $14m+ funded Australian edtech company. Passionate about software and web solutions, a quick learner and ready to bring a unique blend of creativity
+and tech expertise to your dynamic team.
 
 - :seedling: In my free time, I brush up my Java skills.
 
@@ -63,7 +64,9 @@
 ### 🔥: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AjayGhimire1998&theme=dark&background=000000)](https://git.io/streak-stats)
 <br>
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AjayGhimire1998&layout=compact&theme=dark&background=000000&hide=less)](https://github.com/AjayGhimire1998/github-readme-stats)
+<br>
 <br>
 [![Ajay's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=AjayGhimire1998&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/AjayGhimire1998/github-readme-stats#gh-dark-mode-only)
 
