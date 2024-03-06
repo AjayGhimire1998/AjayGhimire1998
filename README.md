@@ -5,10 +5,6 @@
 <div id="badges">
   <a href="https://www.linkedin.com/in/ajayghimire/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-    <a href="https://www.ajayghimire.com" target="_blank">
-    <img src="https://img.shields.io/badge/connect-black?style=for-the-badge&logo=website&logoColor=black" alt="Website Badge"/>
-  </a>
   <a href="https://www.instagram.com/azeysupertramp/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
