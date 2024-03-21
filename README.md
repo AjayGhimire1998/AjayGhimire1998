@@ -31,8 +31,7 @@
 ---
 ### 👨‍💻: About Me :
    a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Australia.
-  - :telescope:Former Chef turned Software Engineer with a flair for precision — whether it’s slicing sashimi or arrays. Led 4 successful web development projects at an estimated $100k+ revenue start-up, performed testing and debugging at a Sydney-based web design agency with $2m+ in annual revenue, and completed an intensive software engineering bootcamp with Academy Xi, a $14m+ funded Australian edtech company. Passionate about software and web solutions, a quick learner and ready to bring a unique blend of creativity
-and tech expertise to your dynamic team.
+  - :telescope:Former Chef turned Software Engineer with a flair for precision — whether it’s slicing sashimis or arrays. Led 4 successful web development projects using JavaScript, TypeScript, React.js and Redux.js, including design, development and production of Rails API server on cloud hosting platform (Render) and integration of AWS storage (Amazon S3) at an estimated $100k+ revenue start-up, performed automated unit testing and debugging at a Sydney-based web design agency with $2m+ in annual revenue and completed an intensive software engineering boot camp with Academy Xi, a $14m+ funded Australian ed-tech company. Passionate about software and web solutions, quick learner and ready to bring a unique blend of creativity and tech expertise to any dynamic team.
 
 - :seedling: In my free time, I brush up my Java skills.
 
