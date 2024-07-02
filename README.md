@@ -32,9 +32,9 @@
 ### 👨‍💻: About Me :
 - :telescope:   a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> living in Australia.
  
-- :seedling: In my free time, I brush up my Java skills.
+- :seedling: In my free time, I like to learn new skills.
 
-- :zap: Currently, mastering the front end stacks.
+- :zap: Currently, brushing up my Java skills.
 
 - 📬 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ajay-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ajayghimire/)
 
